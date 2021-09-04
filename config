@@ -1,0 +1,8 @@
+# add the following lines to ~/.vimrc
+# then run source ~/.vimrc
+# ignore "filetype: command not found"
+
+filetype indent on
+set tabstop=3 shiftwidth=3 expandtab autoindent smartindent
+set number
+set ignorecase smartcase
